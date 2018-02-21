@@ -1,0 +1,17 @@
+1、实验讲解PPT 4份
+实验一 线性回归模型实验指导
+实验二 支持向量机模型实验指导
+实验三 贝叶斯分类解决西瓜问题
+实验四 基于tensorflow实现CNN文本分类
+
+2、实验指导书 4份
+实验一 线性回归实验指导书
+实验二 支持向量机实验指导书
+实验三 贝叶斯分类实验指导书
+实验四 基于tensorflow实现cnn文本处理实验指导书
+
+3、实验参考代码 4份
+实验一 LinearRegression
+实验二 SVM
+实验三 bayes_classify_demo
+实验四 cnn-text-classification-tf
